@@ -7,10 +7,15 @@ AirBnB is an online marketplace and hospitality service that allows individuals 
 ###description of the command interpreter
 
 #How to start it
+
 A command interpreter, also known as a command-line interpreter or CLI, is a program that allows users to interact with a computer system or application through a command-line interface. It provides a text-based environment where users can enter commands and receive corresponding outputs or perform actions.
+
 #how to use it
+
 To start a command interpreter, you typically open a terminal or command prompt on your computer. This provides a command-line environment where you can enter commands and receive corresponding outputs or actions from the system.
+
 #examples
+
 Listing files in a directory:
 $ ls
 This command lists the files and directories in the current directory.
